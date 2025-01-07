@@ -40,7 +40,7 @@ O dashboard é composto por 5 páginas:
    
 ## Arquivo .pbix
 
-O arquivo `dashboard_analise_acoes.pbix` contém o projeto completo.
+O arquivo `Dashboard Comercial - Performance de Vendas.pbix` contém o projeto completo.
 
 ## Como visualizar
 
