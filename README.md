@@ -36,7 +36,7 @@ O dashboard é composto por 5 páginas:
 
 ## Como Utilizar
 
-1.  Clone este repositório: `git clone <URL do repositório>`.
+1.  Clone este repositório: https://github.com/aurianefs/Power-BI_Performance_vendas.git
    
 ## Arquivo .pbix
 
