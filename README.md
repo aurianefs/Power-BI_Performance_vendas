@@ -8,7 +8,7 @@ O dashboard oferece uma visão abrangente das vendas, permitindo identificar ten
 
 ## Fontes de Dados
 
-*   Dados de vendas extraídos do arquivo vendas.csvsistem
+*   Dados de vendas extraídos do arquivo vendas.excel
 
 ## Páginas do Dashboard
 
